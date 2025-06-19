@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); 
+ .megaota{
+    background-image: url("./bk.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1024px;
+}
+.megaota{
+    width: 100%;
+    
+}
+body{
+    background-color:black ;
+    font-family: "Roboto", sans-serif;
+}
+.header{
+    color: #D5D5D6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 51px;
+    padding: 30px;
+}
+.img{
+    display: flex;
+    gap: 68px;
+}
+.imgbola{
+    display: flex;
+    align-items: center;
+    gap: 21px;
+    background-color: #009FF5B5;
+    box-shadow: 0px 4px 4px 0px #DAD3FF;
+    width: 243px;
+height: 27px;
+padding: 19px;
+border-radius: 10px;
+
+}
+.imgbola p{
+   font-size:20px ; 
+}
+header h1{
+   font-size:30px ; 
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    justify-content: center;  
+    list-style-type: none; 
+}
+ul li{
+font-family: Roboto;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.csdiv{
+    background-color: #FFC611;
+    border: 11px solid #5A5555;
+    width: 604px;
+height: 103px;
+top: 243px;
+left: 443px;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+margin: 117px auto;
+align-items: center;
+
+}
+.title-1{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.card{
+    box-shadow: 8px 7px 20px 0px #FFFFFF;
+    width: 361px;
+height: 420px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 127px;
+}
+.h1{
+    text-align: center;
+    color: #5A5555;
+}
+.row2{
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 71px;
+    justify-content: center;
+    margin-top: 168px;
+    margin: 168px auto;
+}
+.row2 p{
+    font-family: Roboto;
+font-weight: 600;
+font-size: 27px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 663px;
+}
+button{
+width: 278px;
+height: 61px;
+box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+border: none;
+font-family: Roboto;
+font-weight: 700;
+font-size: 27px;
+
+
+ background-color:  #FFC200;  
+}
+
+button:hover{
+    background-color: #535353;
+    color: white;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 997px;
+    background-color: #FFC200;
+    height: 158px;
+    align-items: center;
+}
+.card h2{
+    color: #D5D5D6;
+}
+.img2{
+
+    display: flex;
+    gap: 10px;
+}
+
+  
+    
+
+
+
+
+
+
